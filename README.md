@@ -11,5 +11,5 @@ You can find me on,
 </p>
 
 - 👋 Hi, I’m @NazimKhoja
-- 🏫 Currently working as a Software Engineer (Front-End, Back-End, Full-Stack, Integrations, Deployment and Production)
+- 🏫 Currently working as a Front-End Developer
 
