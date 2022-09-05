@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="left">About</h1>
+
 
 You can find me on,
 
@@ -12,4 +12,5 @@ You can find me on,
 
 - 👋 Hi, I’m @NazimKhoja
 - 🏫 Currently working as a Front-End Developer
+
 
