@@ -11,7 +11,7 @@ You can find me on,
 
 - 👋 Hi, I’m @NazimKhoja
 - 🏫 Currently working as a Front-End Developer
-- - 🏫 Freelancer Graphic Designer
+- 🏫 Freelancer Graphic Designer
 
 
 
